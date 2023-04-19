@@ -1,0 +1,71 @@
+{
+    "employees": [
+      {
+        "name": "Natasha Tiovanny Silaban",
+        "position": "UI/UX Designer",
+        "email": "natashatiovanny@gmail.com",
+        "password": "natashatiovanny",
+        "id": 0,
+        "work_history": [
+          {
+            "date": "2023-04-17",
+            "clock-in": "08:09:00",
+            "clock-out": "17:04:30"
+          }
+        ]
+      },
+      {
+        "name": "Gratia Nindyaratri",
+        "position": "Business Intelligence",
+        "email": "gratia.nindya@gmail.com",
+        "password": "gratia.nindya",
+        "id": 1,
+        "work_history": [
+          {
+            "date": "2023-04-17",
+            "clock-in":"07:45:30",
+            "clock-out":"17:04:30"
+          }
+        ]
+      },
+      {
+        "name": "I Putu Andika Bagas Jiwanta",
+        "position": "Front End Engineer",
+        "email": "bagasjiwanta@gmail.com",
+        "password": "bagasjiwanta",
+        "id": 2,
+        "work_history": [
+          {
+            "date": "2023-04-10",
+            "clock-in": "08:02:48",
+            "clock-out": "17:02:30"
+          },
+          {
+            "date": "2023-04-11",
+            "clock-in": "08:00:02",
+            "clock-out": "17:01:00"
+          },
+          {
+            "date": "2023-04-12",
+            "clock-in": "08:01:00",
+            "clock-out": "17:06:30"
+          },
+          {
+            "date": "2023-04-13",
+            "clock-in": "08:15:20",
+            "clock-out": "17:16:30"
+          },
+          {
+            "date": "2023-04-14",
+            "clock-in": "07:56:00",
+            "clock-out": "17:00:49"
+          },
+          {
+            "date": "2023-04-17",
+            "clock-in": "08:01:00",
+            "clock-out": "17:04:30"
+          }
+        ]
+      }
+    ]
+  }
